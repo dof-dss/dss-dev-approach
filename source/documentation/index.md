@@ -65,4 +65,4 @@ Guidance for developers support existing live services can be found [insert link
 [1]: https://nics-ea.london.cloudapps.digital
 [2]: https://dss-developer-docs.london.cloudapps.digital
 [3]: https://dss-syops.london.cloudapps.digital
-[4]: https://dss-support-docs.london.cloudapss.digital
+[4]: https://dss-support-docs.london.cloudapps.digital
