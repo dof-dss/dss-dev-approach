@@ -40,47 +40,23 @@ All new services must follow the [NICS Enterprise Architecture Blueprint][1]. Th
 
 ### Agile approach
 
-Once a customer has approached DSS with an idea, the Customer Relationship Management function will ask the customer to complete a Project Brief [insert link here].
+DSS has adopted an [agile approach][8] to developing digital services for its customers. This is significantly different from previous approaches e.g. Waterfall and it presents a number of challenges. However, the benefits of this approach can be substantial provided all parties clearly understand the role they play.
 
-#### Use of project and team charters
+### Project management
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Roles and responsibilities
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Pre-discovery phase
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Discovery phase
-
-The output from this phase is a Discovery Proposition.
-
-#### Alpha & Beta phases
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Definition of done
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Definition of ready
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Purpose of acceptance criteria
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Although DSS has adopted an agile approach to service delivery this does not mean that traditional best practice in [project management][5] should be abandoned. In fact, project management has a vital role to play ensuring that all the other elements of a business change project are carefully planned and executed as part of the delivery of any new digital service.
 
 ### Developer guidance
 
-Guidance for developers exists in the form of standards and manuals. [insert links here]
+DSS has produced guidance for developers designing and building digital services for the NICS:
+
+[How to build software][6]
 
 ## Supporting live services
 
-Guidance for developers support existing live services can be found [insert link here].
+DSS has produced guidance for developers supporting existing live services:
+
+[How to operate services][7]
 
 ### Product roadmaps
 
@@ -90,3 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 [2]: https://dss-developer-docs.london.cloudapps.digital
 [3]: https://dss-syops.london.cloudapps.digital
 [4]: https://dss-support-docs.london.cloudapps.digital
+[5]: https://www.finance-ni.gov.uk/articles/introduction-project-management
+[6]: https://dss-developer-docs.london.cloudapps.digital/#how-to-build-software
+[7]: https://dss-developer-docs.london.cloudapps.digital/#how-to-operate-services
+[8]: documentation/agile
