@@ -4,7 +4,7 @@ It is not intended as guidance for anyone working outside DSS.
 
 This document forms part of a suite of documents which can be used by DSS and its delivery partners when developing digital services for its customers (internal and external).
 
-[NICS Enterprise Architecture][1]
+[NICS Citizen Services Architecture][1]
 
 This document describes the principles, constraints, capabilities and initiatives that are needed to deliver the next generation of NICS digital services.
 
