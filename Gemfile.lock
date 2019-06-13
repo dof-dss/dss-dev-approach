@@ -35,7 +35,7 @@ GEM
     concurrent-ruby (1.1.5)
     contracts (0.13.0)
     dotenv (2.7.2)
-    dss_tech_docs (0.1.0)
+    dss_tech_docs (0.1.2)
       activesupport
       chronic (~> 0.10.2)
       middleman (~> 4.0)
@@ -57,8 +57,8 @@ GEM
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.5)
-    ffi (1.10.0)
-    haml (5.1.0)
+    ffi (1.11.1)
+    haml (5.1.1)
       temple (>= 0.8.0)
       tilt
     hamster (3.0.0)
@@ -141,7 +141,7 @@ GEM
     pry (0.12.2)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
-    public_suffix (3.0.3)
+    public_suffix (3.1.0)
     rack (2.0.7)
     rack-livereload (0.3.17)
       rack
@@ -174,7 +174,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  dss_tech_docs
+  dss_tech_docs (~> 0.1.2)
   tzinfo-data
   wdm (~> 0.1.0)
 
