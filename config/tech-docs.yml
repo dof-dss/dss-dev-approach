@@ -5,7 +5,7 @@ host: dss-dev-approach.london.cloudapps.digital
 show_govuk_logo: false
 service_name: DSS Development Approach
 service_link: /
-phase: Alpha
+phase: Draft
 
 # Links to show on right-hand-side of header
 header_links:
